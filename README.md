@@ -1,4 +1,4 @@
-### Fix your shit Capclown
+# Fix your shit Capclown
 
 ## Instructions
 Extract the zip to "Steam/steamapps/common/Street Fighter V".
